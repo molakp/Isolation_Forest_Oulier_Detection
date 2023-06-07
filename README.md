@@ -25,7 +25,7 @@ The steps performed in this notebook are as follows:
 
 - Visualize the results: We create a scatter plot to visualize the data, highlighting the normal points in blue and the anomalies in red.
 
-##Usage
+## Usage
 You can run the code in this notebook by executing each cell sequentially. Make sure to have the required libraries installed and imported before running the code.
 
 Feel free to modify the parameters, such as the number of trees, contamination level, and the dataset, to experiment with different scenarios and explore the behavior of the Isolation Forest algorithm for anomaly detection.
